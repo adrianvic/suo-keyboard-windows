@@ -1,5 +1,5 @@
 # suo-keyboard-windows
-The SUO (my conlang) keyboard layout for Windows
+the SUO (my conlang) keyboard layout for Windows
 ## normal
 ![image](https://github.com/adrianvic/suo-keyboard-windows/assets/85490958/20c7ec50-7b78-4071-b188-435b9cca390a)
 ## on shift
